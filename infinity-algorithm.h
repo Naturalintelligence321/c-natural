@@ -22,6 +22,18 @@ class universal
   
  
 }
+class alternative_transistor
+{
+  public:
+  void hyper_input()
+  {
+    int co-ordinatex,y,z,a,b;
+   c=maths_co-ornite(x,y,z,a,b)
+    
+  }
+  
+    
+}
  int  main( universal ob1)
  {
    ob1.display();
